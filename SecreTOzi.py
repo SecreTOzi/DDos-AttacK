@@ -15,7 +15,7 @@ def banner():
      ██    ██   /     /      | Z |
      ██ ▄▄ ██  /     /___    | İ |
       ██████  /__________|   | İ |
- TheBossHackerGroup
+   TheBossHackerGroup
     coder:SecreTOzi
     SecreTOzi tarafından kodlanmıştır.
 
@@ -27,10 +27,10 @@ while True:
     print(renk+"""
     --------------------------
     ¦ Akbar DDOS           ¦1¦
-    ¦ BlackHorizon DDOS    ¦2¦                                   ###########################
-    ¦ BotNet Akira         ¦3¦                                   # Coder:SecreTOzi         #
-    ¦ BotNet Defult        ¦4¦                                   # Instagram:@byyozzi      #
-    ¦ DeepFuck             ¦5¦                                   ###########################
+    ¦ BlackHorizon DDOS    ¦2¦                           ###########################
+    ¦ BotNet Akira         ¦3¦                           # Coder:SecreTOzi         #
+    ¦ BotNet Defult        ¦4¦                           # Instagram:@byyozzi      #
+    ¦ DeepFuck             ¦5¦                           ###########################
     ¦ DrupDev              ¦6¦
     ¦ GetDrupal Multi Scan ¦7¦
     ¦ Hash Type            ¦8¦
@@ -49,14 +49,14 @@ while True:
 
     """)
     try:
-        islem=int(input("Hangi işlemi yapmak istersiniz ? "))
+        islem=int(input("Hangi İşlemi Yapmak İstersiniz ? "))
     except:
-        print("Adam akıllı gir...:")
+        print("Adam Akıllı Gir...:")
 
 
 
  
-    url=input("Hangi Siteyi yok etmek  istersiniz ...: ")
+    url=input("Hangi Siteyi Yok Etmek  İstersiniz ...: ")
  
 
     def Akbar():
@@ -144,10 +144,10 @@ while True:
 
     --------------------------
     ¦ Akbar DDOS           DDOS ATAR
-    ¦ BlackHorizon DDOS    DDOS ATAR                                   ###########################
-    ¦ BotNet Akira         DDOS ATAR                                   # Coder:SecreTOzi         #
-    ¦ BotNet Default       DDOS ATAR                                   # Instagram:@byyozzi      #
-    ¦ DeepFuck             DDOS ATAR                                   ###########################
+    ¦ BlackHorizon DDOS    DDOS ATAR                                                   ###########################
+    ¦ BotNet Akira         DDOS ATAR                                                   # Coder:SecreTOzi         #
+    ¦ BotNet Default       DDOS ATAR                                                   # Instagram:@byyozzi      #
+    ¦ DeepFuck             DDOS ATAR                                                   ###########################
     ¦ DrupDev              İçerisinde exploit, mass vs fonksiyonlar bulunur.
     ¦ GetDrupal Multi Scan Arama motoru bing google ve wordpress joomla site bulmanıza ve içerisinde bot bingerlar bulundurur.
     ¦ Hash Type            Hash-Ide gibidir hashın türünü bulur md5 vs kırmaya çalışır
@@ -160,15 +160,15 @@ while True:
     ¦ TNScan               Kendisi başlı başına bir tool say say bitmez git bak.
     ¦ Toplu DDOS           çeşitli araçları kullanarak ddos atar fakar pc yi zorlar.
     -------------------------
-    CODED BY LQM33
+    CODED BY SecreTOzi
 
 
 
         """)
 
     def Toplu():
-        print("Bilgisayarınızı zorlayabilir !!!")
-        e=input("Devam etmek istiyor musunuz ? e/y...:")
+        print("Bilgisayarınızı Zorlayabilir !!!")
+        e=input("Devam Etmek İstiyor Musunuz ? e/y...:")
         if e == "e":
             
             t1=Thread(target = Akbar)
@@ -181,7 +181,7 @@ while True:
             t3.start()
             t4.start()
         else:
-            print("İşlemi iptal ettiniz .!")
+            print("İşlemi İptal Ettiniz .!")
             sys.exit()
     if islem==1:
         Akbar()
@@ -223,4 +223,4 @@ while True:
     elif islem==33:
         print("SecreTOzi Instagram byyozzi \n mail:secretozi16@gmail.com")
     else:
-        print("Adam akıllı bişi gir...:")
+        print("Adam Akıllı Bişey Gir...:")
