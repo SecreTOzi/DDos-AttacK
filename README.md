@@ -2,7 +2,7 @@
 ## Web Sitelerini Yok Edin!
 
 KURULUM ! 
-
+---------
 $ apt update && apt upgrade 
 
 $ pkg install python        
@@ -37,6 +37,13 @@ $ python3 SecreTOzi.py
 
 
 'VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN!'☾★'
+
+##Beni BUL :
+-------------------------------------------------------------------------------------
+[![Instagram](https://www.instagram.com/byyozzi/)](https://www.instagram.com/byyozzi)
+-------------------------------------------------------------------------------------
+[![Github](https://github.com/SecreTOzi)](https://github.com/SecreTOzi)
+-------------------------------------------------------------------------------------
 
          
 
