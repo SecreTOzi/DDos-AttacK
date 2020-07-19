@@ -221,6 +221,6 @@ while True:
         print("Thanks for using")
         sys.exit()
     elif islem==33:
-        print("LQM33 Instagram lqm33 \n mail:lqm33hacker@gmail.com")
+        print("SecreTOzi Instagram byyozzi \n mail:secretozi16@gmail.com")
     else:
         print("Adam akıllı bişi gir...:")
