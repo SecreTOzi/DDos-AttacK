@@ -21,15 +21,11 @@ Tool ; $ git clone https://github.com/SecreTOzi/DDos-AttacK
 
 $ ls
 
-$ cd
-
-$ ls
-
 $ chmod 777 SecreTOzi.py
 
 $ ls
 
-$ python3 SecreTOzi.py
+Run ; $ python3 SecreTOzi.py
 
 
 
