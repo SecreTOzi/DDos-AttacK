@@ -9,12 +9,14 @@ renkler=["\033[96m","\033[91m","\033[92m","\033[93m","\033[94m","\033[95m"]
 renk=random.choice(renkler)
 def banner():
     print("""
-               __________     (:)
-      ██████  |___      /      
-     ██    ██    /     /     | O |
-     ██    ██   /     /      | Z |
-     ██ ▄▄ ██  /     /___    | İ |
-      ██████  /__________|   | İ |
+              ╔══════════════╗      ╔═══╗
+      ╔══════╗ ██████████████       ║███║  
+       ██████╗       █║     █║    
+     ██║     ██║    █║     █║      ║█║ ║█║   
+     ██║     ██║   █║     █║       ║█║ ║█║   
+     ██║     ██║  █║     ███║      ║█║ ║█║ 
+       ██████ ╔╝ ╚███████████████╚═║█║ ║█║
+      ╚══════╝╚═══════════╝
    ♕TheBossHackerGroup♕
     Coder: SecreTOzi
     SecreTOzi Tarafından Kodlanmıştır.
@@ -26,12 +28,12 @@ banner()
 while True:
     print(renk+"""
     --------------------------
-    ¦ Akbar DDOS           ¦1¦                         ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
+    ¦ Akbar DDOS           ¦1¦                         ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
     ¦ BlackHorizon DDOS    ¦2¦                         ###########################
     ¦ BotNet Akira         ¦3¦                         # Coder: SecreTOzi     ☾★ #
     ¦ BotNet Defult        ¦4¦                         # Instagram: @byyozzi  ☾★ #
     ¦ DeepFuck             ¦5¦                         ###########################
-    ¦ DrupDev              ¦6¦                         ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
+    ¦ DrupDev              ¦6¦                         ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
     ¦ GetDrupal Multi Scan ¦7¦
     ¦ Hash Type            ¦8¦
     ¦ Joomla Exploit Scan  ¦9¦
