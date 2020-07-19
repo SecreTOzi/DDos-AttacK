@@ -15,10 +15,10 @@ def banner():
      ██    ██   /     /      | Z |
      ██ ▄▄ ██  /     /___    | İ |
       ██████  /__________|   | İ |
-   TheBossHackerGroup
-    coder:SecreTOzi
-    SecreTOzi tarafından kodlanmıştır.
-
+   ♕TheBossHackerGroup♕
+    Coder: SecreTOzi
+    SecreTOzi Tarafından Kodlanmıştır.
+    ☾★!VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN!☾★ 
     """)
 
 
@@ -28,8 +28,8 @@ while True:
     --------------------------
     ¦ Akbar DDOS           ¦1¦                         ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
     ¦ BlackHorizon DDOS    ¦2¦                         ###########################
-    ¦ BotNet Akira         ¦3¦                         # Coder:SecreTOzi      ☾★ #
-    ¦ BotNet Defult        ¦4¦                         # Instagram:@byyozzi   ☾★ #
+    ¦ BotNet Akira         ¦3¦                         # Coder: SecreTOzi     ☾★ #
+    ¦ BotNet Defult        ¦4¦                         # Instagram: @byyozzi  ☾★ #
     ¦ DeepFuck             ¦5¦                         ###########################
     ¦ DrupDev              ¦6¦                         ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
     ¦ GetDrupal Multi Scan ¦7¦
