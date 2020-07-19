@@ -144,10 +144,10 @@ while True:
 
     --------------------------
     ¦ Akbar DDOS           DDOS ATAR
-    ¦ BlackHorizon DDOS    DDOS ATAR                                                   ###########################
-    ¦ BotNet Akira         DDOS ATAR                                                   # Coder:SecreTOzi         #
-    ¦ BotNet Default       DDOS ATAR                                                   # Instagram:@byyozzi      #
-    ¦ DeepFuck             DDOS ATAR                                                   ###########################
+    ¦ BlackHorizon DDOS    DDOS ATAR                   ###########################
+    ¦ BotNet Akira         DDOS ATAR                   # Coder:SecreTOzi         #
+    ¦ BotNet Default       DDOS ATAR                   # Instagram:@byyozzi      #
+    ¦ DeepFuck             DDOS ATAR                   ###########################
     ¦ DrupDev              İçerisinde exploit, mass vs fonksiyonlar bulunur.
     ¦ GetDrupal Multi Scan Arama motoru bing google ve wordpress joomla site bulmanıza ve içerisinde bot bingerlar bulundurur.
     ¦ Hash Type            Hash-Ide gibidir hashın türünü bulur md5 vs kırmaya çalışır
