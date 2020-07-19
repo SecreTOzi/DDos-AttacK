@@ -26,12 +26,12 @@ banner()
 while True:
     print(renk+"""
     --------------------------
-    ¦ Akbar DDOS           ¦1¦
+    ¦ Akbar DDOS           ¦1¦                           ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
     ¦ BlackHorizon DDOS    ¦2¦                           ###########################
-    ¦ BotNet Akira         ¦3¦                           # Coder:SecreTOzi         #
-    ¦ BotNet Defult        ¦4¦                           # Instagram:@byyozzi      #
+    ¦ BotNet Akira         ¦3¦                           # Coder:SecreTOzi      ☾★ #
+    ¦ BotNet Defult        ¦4¦                           # Instagram:@byyozzi   ☾★ #
     ¦ DeepFuck             ¦5¦                           ###########################
-    ¦ DrupDev              ¦6¦
+    ¦ DrupDev              ¦6¦                           ☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★☾★
     ¦ GetDrupal Multi Scan ¦7¦
     ¦ Hash Type            ¦8¦
     ¦ Joomla Exploit Scan  ¦9¦
