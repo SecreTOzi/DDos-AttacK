@@ -160,8 +160,7 @@ while True:
     ¦ TNScan               Kendisi Başlı Başına Bir Tool Say Say Bitmez Git Bak.
     ¦ Toplu DDOS           Çeşitli Araçları Kullanarak Ddos Atar Fakat Pc Yi Zorlar.
     -------------------------
-     else:
-        print("Coded ; @byyozzi ...:")
+    
 
 
 
