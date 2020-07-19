@@ -20,6 +20,11 @@ $ python3 SecreTOzi.py
 
 
 
-# Cyber Türk Hacker 'SecreTOzi' Hiçbir Sorumluluk Kabul ETMEZ!!!
+# Cyber Türk Hacker 'SecreTOzi' Hiçbir Sorumluluk Kabul ETMEZ!!!    
+
+
+'VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN!'☾★'
+
+         
 
 
