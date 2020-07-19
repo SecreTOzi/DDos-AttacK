@@ -9,16 +9,15 @@ renkler=["\033[96m","\033[91m","\033[92m","\033[93m","\033[94m","\033[95m"]
 renk=random.choice(renkler)
 def banner():
     print("""
-        
-██╗      ██████╗ ███╗   ███╗██████╗ ██████╗ 
-██║     ██╔═══██╗████╗ ████║╚════██╗╚════██╗
-██║     ██║   ██║██╔████╔██║ █████╔╝ █████╔╝
-██║     ██║▄▄ ██║██║╚██╔╝██║ ╚═══██╗ ╚═══██╗
-███████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝██████╔╝
-╚══════╝ ╚══▀▀═╝ ╚═╝     ╚═╝╚═════╝ ╚═════╝
- TurkicHackersRulez
-    coder:LQM33
-    LQM33 tarafından kodlanmıştır.
+               __________     (:)
+      ██████  |___      /      
+     ██    ██    /     /     | O |
+     ██    ██   /     /      | Z |
+     ██ ▄▄ ██  /     /___    | İ |
+      ██████  /__________|   | İ |
+ TheBossHackerGroup
+    coder:SecreTOzi
+    SecreTOzi tarafından kodlanmıştır.
 
     """)
 
@@ -29,8 +28,8 @@ while True:
     --------------------------
     ¦ Akbar DDOS           ¦1¦
     ¦ BlackHorizon DDOS    ¦2¦                                   ###########################
-    ¦ BotNet Akira         ¦3¦                                   # Coder:LQM33             #
-    ¦ BotNet Defult        ¦4¦                                   # Instagram:lqm33.py      #
+    ¦ BotNet Akira         ¦3¦                                   # Coder:SecreTOzi         #
+    ¦ BotNet Defult        ¦4¦                                   # Instagram:@byyozzi      #
     ¦ DeepFuck             ¦5¦                                   ###########################
     ¦ DrupDev              ¦6¦
     ¦ GetDrupal Multi Scan ¦7¦
@@ -146,8 +145,8 @@ while True:
     --------------------------
     ¦ Akbar DDOS           DDOS ATAR
     ¦ BlackHorizon DDOS    DDOS ATAR                                   ###########################
-    ¦ BotNet Akira         DDOS ATAR                                   # Coder:LQM33             #
-    ¦ BotNet Default       DDOS ATAR                                   # Instagram:lqm33.py      #
+    ¦ BotNet Akira         DDOS ATAR                                   # Coder:SecreTOzi         #
+    ¦ BotNet Default       DDOS ATAR                                   # Instagram:@byyozzi      #
     ¦ DeepFuck             DDOS ATAR                                   ###########################
     ¦ DrupDev              İçerisinde exploit, mass vs fonksiyonlar bulunur.
     ¦ GetDrupal Multi Scan Arama motoru bing google ve wordpress joomla site bulmanıza ve içerisinde bot bingerlar bulundurur.
