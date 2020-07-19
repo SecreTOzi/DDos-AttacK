@@ -143,24 +143,25 @@ while True:
         print("""
 
     --------------------------
-    ¦ Akbar DDOS           DDOS ATAR
-    ¦ BlackHorizon DDOS    DDOS ATAR                   ###########################
-    ¦ BotNet Akira         DDOS ATAR                   # Coder:SecreTOzi         #
-    ¦ BotNet Default       DDOS ATAR                   # Instagram:@byyozzi      #
-    ¦ DeepFuck             DDOS ATAR                   ###########################
-    ¦ DrupDev              İçerisinde exploit, mass vs fonksiyonlar bulunur.
-    ¦ GetDrupal Multi Scan Arama motoru bing google ve wordpress joomla site bulmanıza ve içerisinde bot bingerlar bulundurur.
-    ¦ Hash Type            Hash-Ide gibidir hashın türünü bulur md5 vs kırmaya çalışır
-    ¦ Joomla Exploit Scan  Joomla sitelere geniş taramalar yapar.
-    ¦ Penbox               Kendisi Başlı başına bir tooldur. Say say bitmez özelliği vardır kesin bakın derim.
-    ¦ SadBoys              DDOS tooludur
-    ¦ Sapyhra DDOS         DDOS tooludur
-    ¦ Song DDOS            DDOS Tooludur
-    ¦ ScanSQL              SQL taraması yapar
-    ¦ TNScan               Kendisi başlı başına bir tool say say bitmez git bak.
-    ¦ Toplu DDOS           çeşitli araçları kullanarak ddos atar fakar pc yi zorlar.
+    ¦ Akbar DDOS           DDOS ATAR!
+    ¦ BlackHorizon DDOS    DDOS ATAR!                  ###########################
+    ¦ BotNet Akira         DDOS ATAR!                  # Coder:SecreTOzi         #
+    ¦ BotNet Default       DDOS ATAR!                  # Instagram:@byyozzi      #
+    ¦ DeepFuck             DDOS ATAR!                  ###########################
+    ¦ DrupDev              İçerisinde Exploit, Mass Vs Fonksiyonlar Bulunur.
+    ¦ GetDrupal Multi Scan Arama Motoru Bing Google Ve Wordpress Joomla Site Bulmanıza Ve İçerisinde Bot Bingerlar Bulundurur.
+    ¦ Hash Type            Hash-Ide Gibidir Hashın Türünü Bulur Md5 Vs Kırmaya Çalışır.
+    ¦ Joomla Exploit Scan  Joomla Sitelere Geniş Taramalar Yapar.
+    ¦ Penbox               Kendisi Başlı Başına Bir Tooldur. Say Say Bitmez Özelliği Vardır Kesin Bakın Derim.
+    ¦ SadBoys              DDOS Tooludur!
+    ¦ Sapyhra DDOS         DDOS Tooludur!
+    ¦ Song DDOS            DDOS Tooludur!
+    ¦ ScanSQL              SQL Taraması Yapar.
+    ¦ TNScan               Kendisi Başlı Başına Bir Tool Say Say Bitmez Git Bak.
+    ¦ Toplu DDOS           Çeşitli Araçları Kullanarak Ddos Atar Fakat Pc Yi Zorlar.
     -------------------------
-    CODED BY SecreTOzi
+     else:
+        print("Coded ; @byyozzi ...:")
 
 
 
@@ -218,7 +219,7 @@ while True:
     elif islem==100:
         Tool()
     elif islem==00:
-        print("Thanks for using")
+        print("Kullandığınız İçin Teşekkürler:)")
         sys.exit()
     elif islem==33:
         print("SecreTOzi Instagram byyozzi \n mail:secretozi16@gmail.com")
